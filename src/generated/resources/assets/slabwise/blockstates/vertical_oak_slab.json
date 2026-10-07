@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/oak_planks"
+    },
+    "type=east": {
+      "model": "slabwise:block/vertical_oak_slab_east"
+    },
+    "type=north": {
+      "model": "slabwise:block/vertical_oak_slab_north"
+    },
+    "type=south": {
+      "model": "slabwise:block/vertical_oak_slab_south"
+    },
+    "type=west": {
+      "model": "slabwise:block/vertical_oak_slab_west"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/cut_red_sandstone"
+    },
+    "type=east": {
+      "model": "slabwise:block/vertical_cut_red_sandstone_slab_east"
+    },
+    "type=north": {
+      "model": "slabwise:block/vertical_cut_red_sandstone_slab_north"
+    },
+    "type=south": {
+      "model": "slabwise:block/vertical_cut_red_sandstone_slab_south"
+    },
+    "type=west": {
+      "model": "slabwise:block/vertical_cut_red_sandstone_slab_west"
+    }
+  }
+}

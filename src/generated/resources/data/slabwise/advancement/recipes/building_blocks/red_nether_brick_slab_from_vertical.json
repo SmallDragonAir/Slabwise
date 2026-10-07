@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "slabwise:red_nether_brick_slab_from_vertical"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_vertical_red_nether_brick_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "slabwise:vertical_red_nether_brick_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_vertical_red_nether_brick_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "slabwise:red_nether_brick_slab_from_vertical"
+    ]
+  }
+}

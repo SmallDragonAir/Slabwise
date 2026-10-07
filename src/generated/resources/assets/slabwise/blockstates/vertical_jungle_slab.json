@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/jungle_planks"
+    },
+    "type=east": {
+      "model": "slabwise:block/vertical_jungle_slab_east"
+    },
+    "type=north": {
+      "model": "slabwise:block/vertical_jungle_slab_north"
+    },
+    "type=south": {
+      "model": "slabwise:block/vertical_jungle_slab_south"
+    },
+    "type=west": {
+      "model": "slabwise:block/vertical_jungle_slab_west"
+    }
+  }
+}

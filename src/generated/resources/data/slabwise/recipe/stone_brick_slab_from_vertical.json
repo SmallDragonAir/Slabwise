@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "slabwise:vertical_stone_brick_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_brick_slab"
+  }
+}

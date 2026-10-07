@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "slabwise:vertical_birch_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:birch_slab"
+  }
+}

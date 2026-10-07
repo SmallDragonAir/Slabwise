@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "slabwise:oxidized_cut_copper_slab_from_vertical"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_vertical_oxidized_cut_copper_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "slabwise:vertical_oxidized_cut_copper_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_vertical_oxidized_cut_copper_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "slabwise:oxidized_cut_copper_slab_from_vertical"
+    ]
+  }
+}

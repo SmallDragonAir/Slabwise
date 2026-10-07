@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "slabwise:vertical_warped_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:warped_slab"
+  }
+}

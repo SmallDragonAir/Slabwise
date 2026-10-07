@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/polished_deepslate"
+    },
+    "type=east": {
+      "model": "slabwise:block/vertical_polished_deepslate_slab_east"
+    },
+    "type=north": {
+      "model": "slabwise:block/vertical_polished_deepslate_slab_north"
+    },
+    "type=south": {
+      "model": "slabwise:block/vertical_polished_deepslate_slab_south"
+    },
+    "type=west": {
+      "model": "slabwise:block/vertical_polished_deepslate_slab_west"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/mossy_cobblestone"
+    },
+    "type=east": {
+      "model": "slabwise:block/vertical_mossy_cobblestone_slab_east"
+    },
+    "type=north": {
+      "model": "slabwise:block/vertical_mossy_cobblestone_slab_north"
+    },
+    "type=south": {
+      "model": "slabwise:block/vertical_mossy_cobblestone_slab_south"
+    },
+    "type=west": {
+      "model": "slabwise:block/vertical_mossy_cobblestone_slab_west"
+    }
+  }
+}
